@@ -199,8 +199,8 @@ bool gameOver = false;
 
 // Colors
 const Color _colorBackground{ 36, 36, 36, 255};
-const Color _colorSnakeHead{255, 170, 0, 255};
-const Color _colorSnakeBody{255, 255, 85, 255};
+const Color _colorSnakeHead{10, 70, 128, 255};
+const Color _colorSnakeBody{102, 154, 210, 255};
 const Color _colorBerry{255, 85, 85, 255};
 const Color _colorBorder{85, 85, 85, 255};
 const Color _colorGameover{255, 85, 85, 255};
